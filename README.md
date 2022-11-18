@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sirsky89
-- 👀 I’m interested in learning coding languages and to be master on them.
-- 🌱 I’m currently learning html, css, js, react.js, postgresql and many more.
-- 💞️ I’m looking for new job opportunity as a junior software engineer and prefer to work online.
+- 👋 Hi, I’m Abdul Hamid and a web developer.
+- 👀 I’m interested in web design, develope and make a fully functional website for my client.
+- 🌱 I’m have learn many programming languages such as HTML, CSS, Javasript, Tailwind CSS, Bootstrap, React JS, Next JS and many more.
+- 💞️ I’m looking for new job opportunity as a web developer and at the moment prefer to work online.
 - 📫 You can reach me by email at helloheroemail@gmail.com.
 
 <!---
